@@ -11,6 +11,3 @@ function reverse(array) {
 
   return array;
 }
-
-const array = [24, 35, 17, 88];
-console.log(reverse(array));
